@@ -30,4 +30,4 @@ async def say(interaction: discord.Interaction, thing_to_say: str):
 
     
 # Démarrer le bot
-bot.run('MTExMjEzMDI4MzMyMDM5Mzg3OQ.Gp694g.12LCh9prHkpWFNduU5WDw9zC8QGOFskkLEGCHI')  # Remplacez 'TOKEN' par votre jeton d'identification Discord
+bot.run('MTExMjEzMDI4MzMyMDM5Mzg3OQ.GbtWyN.K0QcnyaE2SxoBkokxvIVtKQPv1T_-2NpP3pCkY')  # Remplacez 'TOKEN' par votre jeton d'identification Discord
